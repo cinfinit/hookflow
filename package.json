@@ -1,0 +1,41 @@
+{
+  "name": "hookflow",
+  "version": "1.0.0",
+  "description": "A deterministic, multi-package hook orchestration system for monorepos",
+  "keywords": [
+    "hooks",
+    "orchestration",
+    "postinstall",
+    "preinstall",
+    "monorepo",
+    "cli",
+    "hookflow",
+    "hookflow-cli",
+    "hookflow-postinstall",
+    "hookflow-preinstall",
+    "hookflow-postbuild",
+    "hookflow-list",
+    "scripts",
+    "utils",
+    "dev-tools",
+    "repository",
+    "lifecycle",
+    "configuration"
+  ],
+  "main": "index.js",
+  "bin": {
+    "hookflow": "./bin/hookflow.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "prepublishOnly": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinfinit/hookflow"
+  },
+  "homepage": "https://github.com/cinfinit/hookflow#readme",
+  "author": "cinfinit",
+  "license": "MIT"
+}
