@@ -1,5 +1,5 @@
 {
-  "name": "hookflow",
+  "name": "@cinfinit/hookflow",
   "version": "1.0.0",
   "description": "A deterministic, multi-package hook orchestration system for monorepos",
   "keywords": [

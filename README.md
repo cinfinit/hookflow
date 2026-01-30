@@ -3,7 +3,7 @@
 
 # HookFlow 🪝⚡
 
-[![NPM version](https://img.shields.io/npm/v/hookflow.svg?style=flat)](https://www.npmjs.com/package/hookflow) [![NPM downloads](https://img.shields.io/npm/dm/hookflow.svg?style=flat)](https://npmjs.org/package/hookflow)
+[![NPM version](https://img.shields.io/npm/v/@cinfinit/hookflow.svg?style=flat)](https://www.npmjs.com/package/@cinfinit/hookflow) [![NPM downloads](https://img.shields.io/npm/dm/@cinfinit/hookflow.svg?style=flat)](https://npmjs.org/package/@cinfinit/hookflow)
 
 > The hook orchestration system your monorepo didn’t know it desperately needed.
 
@@ -47,7 +47,7 @@ In short: **no conflicts, no surprises, hooks just work.**
 ## Installation
 
 ```bash
-npm install --save-dev hookflow
+npm install --save-dev @cinfinit/hookflow
 ```
 
 Or run without installing:
